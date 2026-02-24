@@ -1,0 +1,2 @@
+# myproject
+Testing Git functions
